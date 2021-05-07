@@ -2,7 +2,7 @@
 一个使用jsp和servlet制作的简易视频分享平台
 
 
-
+在master分支里
 
 thanks
 https://github.com/2w1nd/easystudio
